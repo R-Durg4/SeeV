@@ -1,4 +1,3 @@
-#SHRUTI
 To add firebase: flutter pub add firebase_core
 
 To add firestore: flutter pub add cloud_firestore
